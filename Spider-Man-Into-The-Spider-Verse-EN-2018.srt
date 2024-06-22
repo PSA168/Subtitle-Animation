@@ -1,8 +1,3 @@
-﻿1
-00:00:06,624 --> 00:00:11,624
-Subtitles by <font color="#ff0000">explosiveskull</font>
-Sync by <font color="#00ffff">GoldenBeard</font>
-
 2
 00:01:19,193 --> 00:01:21,360
 <i>All right, let's
